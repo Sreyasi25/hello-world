@@ -1,6 +1,6 @@
   <form action="action_page.php">
   <div class="container">
-    <h1>Registration</h1>
+    <h1>register now</h1>
     <p>create an account.</p>
     <hr>
      
